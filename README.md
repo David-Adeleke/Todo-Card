@@ -1,18 +1,5 @@
 # Todo Card — Stage 1a
 
-A single-file interactive Todo Card built with HTML, CSS, and vanilla JavaScript.
-
-## Live URL
-https://your-deployment-url.netlify.app
-
-## GitHub Repo
-https://github.com/David-Adeleke/Todo-Card
-
-## Run Locally
-Clone the repo and open `index.html` in a browser. No installs needed.
-
----
-
 ## What Changed from Stage 0
 
 - Edit button now opens a real edit form (title, description, priority, due date) instead of logging to console
